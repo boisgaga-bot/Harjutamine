@@ -1,0 +1,2 @@
+harjutamine.txt
+GitHubi kasutavad tarkvaraarendajad, meeskonnad ja organisatsioonid koodi jagamiseks, haldamiseks ja koostööks.
