@@ -1,2 +1,4 @@
 harjutamine.txt
 GitHubi kasutavad tarkvaraarendajad, meeskonnad ja organisatsioonid koodi jagamiseks, haldamiseks ja koostööks.
+GitHub Inc. asutati 2008. aastal ning asutajateks olid Tom Preston-Werner, Chris Wanstrath, PJ Hyett ja Scott Chacon.
+GitHubi teenus muutus avalikult kättesaadavaks samuti 2008. aastal.
